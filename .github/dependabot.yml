@@ -1,0 +1,21 @@
+# Last login: Mon Oct  9 04:39:54 on ttys001
+vanessasanchez7@Vanessas-MacBook-Air ~ % 
+  [Restored Oct 9, 2023 at 6:55:24 AM]
+Last login: Mon Oct  9 04:55:12 on console
+/bin/date: option requires an argument -- r
+usage: date [-jnRu] [-I[date|hours|minutes|seconds]] [-f input_fmt]
+            [-r filename|seconds] [-v[+|-]val[y|m|w|d|H|M|S]]
+            [[[[mm]dd]HH]MM[[cc]yy][.SS] | new_date] [+output_fmt]
+Restored session: 
+vanessasanchez7@Vanessas-MacBook-Air ~ %vanessasanchez7@Vanessas-MacBook-Air ~ % 
+ get started with Dependabot version updates, you'll need to specify which
+# package ecosystems to update and where the package manifests are located.
+# Please see the documentation for all configuration options:
+# https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
+
+version: 2
+updates:
+  - package-ecosystem: "" # See documentation for possible values
+    directory: "/" # Location of package manifests
+    schedule:
+      interval: "weekly"
